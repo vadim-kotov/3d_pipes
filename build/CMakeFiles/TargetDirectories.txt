@@ -1,0 +1,3 @@
+/home/vadim/mashgraph/kotov_mg2_2019/build/CMakeFiles/rebuild_cache.dir
+/home/vadim/mashgraph/kotov_mg2_2019/build/CMakeFiles/main.dir
+/home/vadim/mashgraph/kotov_mg2_2019/build/CMakeFiles/edit_cache.dir
